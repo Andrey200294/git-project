@@ -6,8 +6,8 @@ function fef(argument) {
 	
 	console.log("fefef fefe")
 }
-function thanks(argument) {
+function new_function(argument) {
 	
-	console.log("byedddddbye")
+	console.log("ggggggg")
 }
 
