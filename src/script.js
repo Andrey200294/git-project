@@ -8,6 +8,6 @@ function fef(argument) {
 }
 function thanks(argument) {
 	
-	console.log("byebye")
+	console.log("byedddddbye")
 }
 
